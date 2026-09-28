@@ -1,7 +1,7 @@
 // Single Number Static Program
 // https://leetcode.com/problems/single-number
 
-include <stdio.h>
+#include <stdio.h>
 
 int main(){
 	int nums[]={4,1,2,1,2};
